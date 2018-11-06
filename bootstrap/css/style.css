@@ -1,0 +1,14 @@
+#headnav {
+     background-image: linear-gradient(to bottom,#3c3c3c 0,#de2c35 100%) !important;
+     border-color: #080808;
+}
+.hoverTable{
+	width:100%; 
+	border-collapse:collapse; 
+}
+/* Define the hover highlight color for the table row */
+.hoverTable tr:hover {
+    background-color: #c82e3529;
+ }
+
+
